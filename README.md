@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Academix — School Management System
 
 A full-featured React school management system with 6 modules.
@@ -48,3 +49,6 @@ src/
 - No UI component library — all custom CSS
 - Google Fonts: Fraunces (display) + DM Sans (body)
 - Zero runtime dependencies beyond React
+=======
+# school-management
+>>>>>>> 67add80d57c73167c734757cc2097c3e7e8f50ba
